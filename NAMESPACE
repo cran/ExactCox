@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "pbinom", "qbinom", "uniroot")
+importFrom("BiasedUrn", "dFNCHypergeo")
